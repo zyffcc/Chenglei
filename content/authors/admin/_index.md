@@ -69,6 +69,6 @@ highlight_name: false
 
 Cheng Lei is a master of Physics at the XO-Lab in ShanghaiTech University. Her research interests include preparation and characterization of 2-D perovskite. She is working in Professor Chen Gang's group on the research of two-dimensional perovskites with high efficiency.
 
-程蕾目前在上海科技大学物质学院陈刚教授课题组攻读硕士学位,主要研究二维钙钛矿的制备及表征。
+程蕾目前在上海科技大学物质学院攻读硕士学位，其本人的研究主要侧重于高效率二维钙钛矿器件的制备，以及运用同步辐射X射线散射及其他光谱学技术对其动态过程的表征。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

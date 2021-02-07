@@ -20,7 +20,7 @@ bio: My research interests include Preparation and characterization of 2-D perov
 interests:
 - Perovskite Materials
 - Absorption Spectrum
-- Grazing Incident Wide Angle X-ray Diffraction
+- GIWAXS
 
 # Education to show in About widget
 education:
@@ -67,8 +67,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cheng Lei is a master of Physics at the XO-Lab in ShanghaiTech University. Her research interests include preparation and characterization of 2-D perovskite. She is working in Professor Chen Gang's group on the research of two-dimensional perovskites with high efficiency.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+程蕾目前在上海科技大学物质学院陈刚教授课题组攻读硕士学位,主要研究二维钙钛矿的制备及表征。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Cheng Lei
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master of Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: ShanghaiTech University
+  url: https://www.shanghaitech.edu.cn/eng/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Preparation and characterization of 2-D perovskite.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Perovskite Materials
+- Absorption Spectrum
+- Grazing Incident Wide Angle X-ray Diffraction
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Materials Science
+    institution: ShanghaiTech University
+    year: 2021
+  - course: BS in Applied Physics
+    institution: Zhejiang Sci-Tech University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

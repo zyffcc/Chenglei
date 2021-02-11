@@ -34,7 +34,7 @@ feature:
   icon_pack: "custom"
   name: Energy
 - description: 100%
-  icon: "drawing"
+  icon: "rawing"
   icon_pack: "custom"
   name: Drawing
 - description: 10%

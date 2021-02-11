@@ -24,20 +24,20 @@ feature:
   icon: "Microscope"
   icon_pack: "custom"
   name: Characterization
-- description: 50%
+- description: 70%
   icon: "Physics"
   icon_pack: "custom"
   name: Physics
   
-- description: 50%
+- description: 70%
   icon: "solarcell"
   icon_pack: "custom"
   name: Energy
-- description: 100%
+- description: 20%
   icon: "Drawing"
   icon_pack: "custom"
   name: Drawing
-- description: 10%
+- description: 30%
   icon: camera-retro
   icon_pack: fas
   name: Photography

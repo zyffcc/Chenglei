@@ -26,7 +26,7 @@ feature:
   name: Characterization
 - description: 50%
   icon: ”Physics“
-  icon_pack: "costom"
+  icon_pack: "custom"
   name: Physics
   
 - description: 50%

@@ -29,18 +29,18 @@ feature:
   icon_pack: "custom"
   name: Physics
   
-- description: 50%
-  icon: “solarcell”
-  icon_pack: "custom"
-  name: Energy
-  - description: 100%
-  icon: “drawing”
-  icon_pack: "custom"
-  name: Drawing
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+#- description: 50%
+#  icon: “solarcell”
+#  icon_pack: "custom"
+#  name: Energy
+#- description: 100%
+#  icon: “drawing”
+#  icon_pack: "custom"
+#  name: Drawing
+#- description: 10%
+#  icon: camera-retro
+ # icon_pack: fas
+ # name: Photography
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

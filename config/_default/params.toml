@@ -100,11 +100,11 @@ address = {street = "393 Huaxia Middle Rd", city = "hanghai", region = "Pudong",
 coordinates = {latitude = "31.17636", longitude = "121.59245"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "2nd Floor, Building 6, School of Material Science"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 10:00 to 13:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Sunday 10:00 to 13:00, Beijing Time"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendly.com"

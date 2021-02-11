@@ -29,10 +29,10 @@ feature:
   icon_pack: "custom"
   name: Physics
   
-#- description: 50%
-#  icon: “solarcell”
-#  icon_pack: "custom"
-#  name: Energy
+- description: 50%
+  icon: “solarcell”
+  icon_pack: "custom"
+  name: Energy
 #- description: 100%
 #  icon: “drawing”
 #  icon_pack: "custom"

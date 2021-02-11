@@ -21,20 +21,20 @@ feature:
   icon_pack: "custom"
   name: MATLAB
 - description: 100%
-  icon: ”Microscope”
+  icon: "Microscope"
   icon_pack: "custom"
   name: Characterization
 - description: 50%
-  icon: ”Physics“
+  icon: "Physics"
   icon_pack: "custom"
   name: Physics
   
 - description: 50%
-  icon: “solarcell”
+  icon: "solarcell"
   icon_pack: "custom"
   name: Energy
 - description: 100%
-  icon: “drawing”
+  icon: "drawing"
   icon_pack: "custom"
   name: Drawing
 - description: 10%

@@ -21,26 +21,27 @@ feature:
   icon_pack: "custom"
   name: MATLAB
 - description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
+  icon: ”Microscope”
+  icon_pack: "custom"
+  name: Characterization
+- description: 50%
+  icon: ”Physics“
+  icon_pack: "costom"
+  name: Physics
+  
+- description: 50%
+  icon: “solarcell”
+  icon_pack: "custom"
+  name: Energy
+  - description: 100%
+  icon: “drawing”
+  icon_pack: "custom"
+  name: Drawing
 - description: 10%
   icon: camera-retro
   icon_pack: fas
   name: Photography
 
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: MATLAB
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
